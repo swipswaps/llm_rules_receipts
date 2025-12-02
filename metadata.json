@@ -1,0 +1,7 @@
+{
+  "name": "Smart Receipt OCR",
+  "description": "A modern receipt scanner and expense tracker using Gemini 2.5 Flash for intelligent OCR and parsing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
